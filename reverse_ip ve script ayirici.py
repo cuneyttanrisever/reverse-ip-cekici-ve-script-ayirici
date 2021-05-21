@@ -23,7 +23,7 @@ class renkler:
     UNDERLINE = '\033[4m'
 print renkler.yesil + """
 #######################################################
-#               Hacked by DexmoD                      #
+#               Cüneyt TANRISVER                      #
 #         Reverse ip Cekeici :*)                      #
 #         Kullanimi : google.com enter                #
 #         seklinde yaziniz. Http vs kullanmayiniz.    #
